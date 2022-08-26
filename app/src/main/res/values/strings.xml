@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">PixMoji</string>
+    <string name="continue_s">Continue</string>
+    <string name="copy_as_emojis">Copy as Emojis</string>
+    <string name="copied">Copied your painting to the clipboard!</string>
+    <string name="cleared">Cleared the field!</string>
+    <string name="alert_title">Are you sure?</string>
+    <string name="alert_message">It\'s not recommended to create more than 16² pixels. Otherwise, the app may work too slow.</string>
+    <string name="alert_positive">Continue</string>
+    <string name="alert_negative">Cancel</string>
+    <string name="import_image">Import image</string>
+    <string name="field_width">Field width</string>
+    <string name="field_height">Field height</string>
+    <string name="enter_value">Please, enter a value</string>
+    <string name="incorrect_value">Incorrect value</string>
+</resources>

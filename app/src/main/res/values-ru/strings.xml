@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PixMoji</string>
+    <string name="continue_s">Продолжить</string>
+    <string name="copy_as_emojis">Превратить в Эмодзи</string>
+    <string name="copied">Рисунок скопирован в буфер обмена!</string>
+    <string name="cleared">Поле очищено!</string>
+    <string name="alert_title">Вы уверены?</string>
+    <string name="alert_message">Не рекомендуется создавать больше 16² пикселей. Иначе приложение может работать слишком медленно.</string>
+    <string name="alert_positive">Продолжить</string>
+    <string name="alert_negative">Отмена</string>
+    <string name="import_image">Импортировать изображение</string>
+    <string name="field_width">Ширина поля</string>
+    <string name="field_height">Высота поля</string>
+    <string name="enter_value">Введите значение</string>
+    <string name="incorrect_value">Некорректное значение</string>
+</resources>
