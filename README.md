@@ -31,3 +31,6 @@
 
 # Screenshots:
 <img src="https://i.imgur.com/vOw7Dgj.png" alt="Start Screen" width="25%" height="25%"> <img src="https://i.imgur.com/ueYBbYC.png" alt="Drawing Field" width="25%" height="25%" border="20">
+
+# Download:
+Download from [Releases](https://github.com/nVoxel/PixMoji/releases)
